@@ -1,0 +1,31 @@
+{
+"name": "Headlines Progressive Web App",
+"short_name": "Headlines",
+"start_url": "/index.html",
+"display": "standalone",
+"orientation": "portrait",
+"background_color": "#ccc",
+"theme_color": "#5FAAES",
+"icons": [
+{
+ "src": "/image/icon96.png",
+ "sizes": "96x96",
+ "type": "image/png"
+},
+{
+ "src": "image/icon144.png",
+ "sizes": "144x144",
+ "type": "image/png"
+},
+{
+ "src": "image/icon256.png",
+ "sizes": "256x256",
+ "type": "image/png"
+},
+{
+ "src": "image/icon512.png",
+ "sizes": "512x512",
+ "type": "image/png"
+} 
+]
+}

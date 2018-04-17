@@ -1,0 +1,17 @@
+{
+  "name": "alcnews",
+  "version": "1.0.0",
+  "description": "A simple PWA",
+  "main": "app.js",
+  "scripts": {
+    "starts": "http-server -c-1 -p 8081"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Godswill Okon",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10"
+  }
+}
